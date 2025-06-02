@@ -55,10 +55,19 @@
 ![](https://github-profile-trophy.vercel.app/?username=soumyadeepsarkar-2004&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
 ## 💡 Developer Insights
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<div align="center">
+
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  
+</div>
 
 ---
-![](https://komarev.com/ghpvc/?username=soumyadeepsarkar-2004&color=blueviolet&label=PROFILE+VIEWS&style=for-the-badge)
 
-*Profile crafted with ❤️ using Markdown*
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=soumyadeepsarkar-2004&color=blueviolet&label=PROFILE+VIEWS&style=flat-square)](https://github.com/soumyadeepsarkar-2004)
+
+*Profile crafted with ❤️ using Markdown!*
+
+</div>
