@@ -1,4 +1,4 @@
-### 💫 About Me:
+# 💫 About Me:
 🔭 **Currently working on** Backend Development with Node.js & Python<br>
 🌱 **Currently learning** Data Mining & Machine Learning<br>
 👯 **Looking to collaborate** on Open Source Projects<br>
