@@ -1,4 +1,4 @@
-# 💫 About Me:
+### 💫 About Me:
 🔭 **Currently working on** Backend Development with Node.js & Python<br>
 🌱 **Currently learning** Data Mining & Machine Learning<br>
 👯 **Looking to collaborate** on Open Source Projects<br>
@@ -54,20 +54,17 @@
 ## 🏆 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=soumyadeepsarkar-2004&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
+--- 
 ## 💡 Developer Insights
-
-<div align="center">
 
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
-</div>
-
 ---
-
-<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=soumyadeepsarkar-2004&color=blueviolet&label=PROFILE+VIEWS&style=flat-square)](https://github.com/soumyadeepsarkar-2004)
 
+<div align="center">
+  
 *Profile crafted with ❤️ using Markdown!*
 
 </div>
