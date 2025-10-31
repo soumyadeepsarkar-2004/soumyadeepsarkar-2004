@@ -4,7 +4,7 @@
 👯 **Looking to collaborate** on Open Source Projects<br>
 🤝 **Seeking help with** Advanced ML Algorithms<br>
 💬 **Ask me about** Tech Stack Decisions & Cricket Analytics<br>
-⚡ **Fun fact:** I code better than I socialize 😄
+⚡ **Fun fact:** I socialize better than I code😄
 
 ## 🛠️ Tech Stack
 ### Languages
