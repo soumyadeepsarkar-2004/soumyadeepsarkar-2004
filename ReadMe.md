@@ -20,5 +20,6 @@ Backend-focused developer building practical products with clean architecture an
 - Email: [soumyadeepsarkar2004@outlook.com](mailto:soumyadeepsarkar2004@outlook.com)
 
 ## GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=soumyadeepsarkar-2004&show_icons=true&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeepsarkar-2004&layout=compact&hide_border=true)
